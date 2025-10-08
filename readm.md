@@ -1,4 +1,4 @@
-<!-- Enunciado:
+# Enunciado:
 
 Faker é un paquete que se usa para xerar datos ficticios de usuarios e así poder facer probas nas nosas aplicacións.
 
@@ -13,4 +13,7 @@ Despois, o programa seleccionará aleatoriamente a un dos usuarios para mostrar 
 Á hora de realizar a tarefa, deberás ter en conta o seguinte:
 
 Debes desenvolver o programa empregando Git e GitHub. Podes crear un repositorio público en GitHub coa túa conta de usuario para logo compartilo co profesor.
-Debes empregar un contorno virtual e xerar o ficheiro de dependencias, de forma que cando o profesor clone o teu repositorio poida instalar automaticamente todos os paquetes necesarios a través dese ficheiro. -->
+Debes empregar un contorno virtual e xerar o ficheiro de dependencias, de forma que cando o profesor clone o teu repositorio poida instalar automaticamente todos os paquetes necesarios a través dese ficheiro.
+
+# requisitos
+version: Python 3.13 o superior
